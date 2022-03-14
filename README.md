@@ -10,7 +10,6 @@ Features:
 for first time:
 <pre><code>
 Download 'Main.py' and 'installer.py'
-open cmd 
 Double click on 'installer.py'
 Double click on 'Main.py'
 </code></pre>
