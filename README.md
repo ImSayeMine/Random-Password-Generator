@@ -6,6 +6,7 @@ Features:
 
 
 # How To run 
+for the first time:
 <pre><code>
 git clone https://github.com/ImSayeMine/Random-Password-Generator
 </code></pre>
