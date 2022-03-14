@@ -36,6 +36,7 @@ sudo python3 Main.py
 # Termux 
 for fisrt time:
 <pre><code>
+<pre><code>
 git clone https://github.com/ImSayeMine/Random-Password-Generator
 cd Random-Password-Generator
 python installer.py
@@ -44,4 +45,5 @@ python Main.py
 For the next times:
 <pre><code>
 python Main.py
+</code></pre>
 </code></pre>
